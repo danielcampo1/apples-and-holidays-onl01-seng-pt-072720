@@ -92,8 +92,9 @@ def all_holidays_with_bbq(holiday_hash)
       end 
     end
   end
+  new_array
 end
-   new_array
+
   
   # return an array of holiday names (as symbols) where supply lists
   # include the string "BBQ"
